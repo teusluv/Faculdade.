@@ -1,3 +1,5 @@
+//usando operador ternário
+
 import java.util.Scanner;
 
 public class Mavenproject1 {
