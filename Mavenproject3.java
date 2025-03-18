@@ -1,3 +1,5 @@
+//Utilizando if e else
+
 import java.util.Scanner;
 
 public class Mavenproject1 {
