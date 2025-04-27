@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
+//usei hashmap pelo fato de ser melhor pra organizar o objeto e o seu valor nele.
 public class SistemaCadastro {
 
     public static void main(String[] args) {
